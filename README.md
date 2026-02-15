@@ -59,4 +59,6 @@
 - portfolio/: 核心输出：8页项目演示精修版 PDF。
 
 ---[点击此处查看交互式仪表盘](https://public.tableau.com/views/Olist_17711836845620/sheet19?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![838366a0f1855c546e494b8737be5630](https://github.com/user-attachments/assets/20119b4e-542e-4cf1-8583-eba0873dad36)
+
 
